@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """BERT-based AI algorithme for
-finding Recommendations for Adiitional Imaging (RAI) in radiology reports.
+finding Recommendations for Additional Imaging (RAI) in radiology reports.
 """
 
 # gpu_info = !nvidia-smi
